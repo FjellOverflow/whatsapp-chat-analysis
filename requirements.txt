@@ -7,3 +7,4 @@ plotly==5.4.0
 regex==2021.11.10
 wordcloud==1.8.1
 kaleido==0.2.1
+setuptools==67.2.0
