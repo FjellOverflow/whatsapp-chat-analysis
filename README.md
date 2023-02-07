@@ -33,6 +33,14 @@ Within WhatsApp:
 Install dependencies
 `pip install -r ./requirements.txt`
 
+Download stopwords
+```
+python3
+>>> import nltk
+>>> nltk.download('stopwords')
+>>> exit()
+```
+
 Call script with
 `python analyze.py --input my_saved_chat.txt`
 
